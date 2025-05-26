@@ -1,0 +1,1 @@
+# GTBetting - Projeto pronto para deploy no Cloudflare Pages
